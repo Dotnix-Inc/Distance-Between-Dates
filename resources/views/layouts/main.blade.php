@@ -42,10 +42,10 @@
             <div
                 class="relative w-8 h-8 overflow-hidden rounded border border-white/10 bg-white/5 backdrop-blur-sm group-hover:border-sky-500/50 transition-all duration-500">
                 <img src="{{ asset('images/logo.png') }}" alt="Logo"
-                    class="w-full h-full object-contain p-1 hover:scale-110 transition-transform duration-700">
+                    class="w-full h-full object-contain p-1">
             </div>
             <div
-                class="text-lg font-black text-white tracking-widest uppercase transition-all duration-500 group-hover:tracking-wider">
+                class="text-lg font-black text-white tracking-widest uppercase">
                 Distance_Between_<span class="text-sky-400">Dates</span>
             </div>
         </a>
