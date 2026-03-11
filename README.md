@@ -1,6 +1,6 @@
-# There to Here - The Precise Date Distance Calculator
+# Distance Between Dates - The Precise Date Distance Calculator
 
-![There to Here Hero](https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&q=80&w=1200&h=400)
+![Distance Between Dates Hero](https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&q=80&w=1200&h=400)
 
 A modern, production-grade Laravel application that calculates the precise time between any two dates with beautiful visualizations and high-fidelity cyber-aesthetic.
 

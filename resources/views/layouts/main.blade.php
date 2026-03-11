@@ -7,7 +7,7 @@
     <meta name="description"
         content="Distance Between Dates. Calculate the precise time between any two dates with beautiful visualizations.">
 
-    <title>{{ $title ?? 'There to Here - Date Distance Calculator' }}</title>
+    <title>{{ $title ?? 'Distance Between Dates - Date Distance Calculator' }}</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,7 +46,7 @@
             </div>
             <div
                 class="text-lg font-black text-white tracking-widest uppercase transition-all duration-500 group-hover:tracking-wider">
-                There_to_<span class="text-sky-400">Here</span>
+                Distance_Between_<span class="text-sky-400">Dates</span>
             </div>
         </a>
 
