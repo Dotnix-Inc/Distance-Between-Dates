@@ -48,7 +48,7 @@
             </div>
             <div
                 class="text-xl font-black text-white tracking-widest uppercase">
-                Distance_Between_<span class="text-sky-400">Dates</span>
+                Distance Between <span class="text-sky-400">Dates</span>
             </div>
         </a>
 
