@@ -42,12 +42,12 @@
         class="absolute top-0 w-full px-6 py-4 flex justify-between items-center z-20 border-b border-white/5 bg-slate-950/50 backdrop-blur-md">
         <a href="/" class="flex items-center gap-4 group">
             <div
-                class="relative w-10 h-10 overflow-hidden rounded-lg border border-white/10 bg-white/5 backdrop-blur-sm group-hover:border-sky-500/50 transition-all duration-500 shadow-lg">
+                class="relative w-8 h-8 overflow-hidden rounded border border-white/10 bg-white/5 backdrop-blur-sm group-hover:border-sky-500/50 transition-all duration-500 shadow-lg">
                 <img src="{{ asset('images/logo.png') }}" alt="Logo"
-                    class="w-full h-full object-contain p-1.5">
+                    class="w-full h-full object-contain p-1">
             </div>
             <div
-                class="text-xl font-black text-white tracking-widest uppercase">
+                class="text-sm font-black text-white tracking-widest uppercase">
                 Distance Between <span class="text-sky-400">Dates</span>
             </div>
         </a>

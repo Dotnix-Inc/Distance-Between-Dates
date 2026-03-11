@@ -45,7 +45,7 @@
                     class="w-full h-full object-contain p-1">
             </div>
             <div
-                class="text-lg font-black text-white tracking-widest uppercase">
+                class="text-sm font-black text-white tracking-widest uppercase">
                 Distance Between <span class="text-sky-400">Dates</span>
             </div>
         </a>
