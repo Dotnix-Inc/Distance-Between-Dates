@@ -94,7 +94,7 @@
                     <div class="h-[1px] w-12 bg-gradient-to-r from-transparent to-sky-500/20"></div>
 
                     <div class="text-[10px] font-mono uppercase tracking-[0.3em] text-slate-500">
-                        Developed_by // <span class="text-sky-400 group-hover:text-sky-300 transition-colors">Abdur Rahman Emon</span>
+                        Developed_by // <span class="text-sky-400 group-hover:text-sky-300 transition-colors">Dotnix</span>
                     </div>
                     <div class="h-[1px] w-12 bg-gradient-to-l from-transparent to-sky-500/20"></div>
                 </div>
