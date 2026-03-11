@@ -22,12 +22,23 @@ else
     echo "✅ .env file already exists."
 fi
 
-# 4. Build assets
+# 4. Database Migrations
+echo "🗄️ Running migrations..."
+php artisan migrate --force
+
+# 5. Build assets
 echo "🏗️ Building assets..."
 npm run build
 
+# 6. Optimize for Production
+echo "🚀 Optimizing for Production..."
+php artisan optimize:clear
+php artisan config:cache
+php artisan route:cache
+php artisan view:cache
+
 echo "✅ Deployment finished successfully!"
 
-# 5. Start the server
-echo "🚀 Starting server on PORT 8080..."
-php artisan serve --port=8080
+# 7. Start the server (Commented out for Nginx environments)
+# echo "🚀 Starting server on PORT 8080..."
+# php artisan serve --port=8080
