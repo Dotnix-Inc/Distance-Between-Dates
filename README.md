@@ -2,7 +2,7 @@
 
 ![Distance Between Dates Hero](https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&q=80&w=1200&h=400)
 
-A modern, production-grade Laravel application that calculates the precise time between any two dates with beautiful visualizations and high-fidelity cyber-aesthetic.
+A modern, production-grade Laravel application that calculates the precise time between any two dates with beautiful visualizations and high-fidelity cyber-aesthetics.
 
 [![Laravel 11](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
@@ -32,7 +32,7 @@ A modern, production-grade Laravel application that calculates the precise time 
 - **TypeScript 5.9**: Type-safe logic for client-side interactions.
 - **Vite 6**: Blazing-fast HMR and production builds.
 - **Tailwind CSS 3.4**: Modern styling with custom glassmorphism effects.
-- **date-fns v4**: Lightweight, tree-shakeable date logic utilities.
+- **date-fns v4**: Lightweight, tree-shakable date logic utilities.
 
 **Design:**
 - **Cyber-Glassmorphism**: A sleek, dark-mode aesthetic.
