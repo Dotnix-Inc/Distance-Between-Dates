@@ -54,15 +54,15 @@
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-4">
             <div class="text-center pb-4 sm:pb-0 border-b sm:border-b-0 border-sky-500/10">
                 <div class="text-3xl sm:text-4xl font-bold text-sky-300" id="years">{{ $result['years'] ?? 0 }}</div>
-                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">YRS</div>
+                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">YEARS</div>
             </div>
             <div class="text-center py-4 sm:py-0 border-b sm:border-b-0 sm:border-l sm:border-r border-sky-500/10">
                 <div class="text-3xl sm:text-4xl font-bold text-sky-300" id="months">{{ $result['months'] ?? 0 }}</div>
-                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">MTH</div>
+                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">MONTHS</div>
             </div>
             <div class="text-center pt-4 sm:pt-0">
                 <div class="text-3xl sm:text-4xl font-bold text-sky-300" id="days">{{ $result['days'] ?? 0 }}</div>
-                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">DYS</div>
+                <div class="text-[10px] font-mono text-slate-500 uppercase tracking-widest mt-1">DAYS</div>
             </div>
         </div>
     </div>
