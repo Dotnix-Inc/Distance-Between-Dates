@@ -40,14 +40,14 @@
     <!-- Navigation Area -->
     <nav
         class="absolute top-0 w-full px-6 py-4 flex justify-between items-center z-20 border-b border-white/5 bg-slate-950/50 backdrop-blur-md">
-        <a href="/" class="flex items-center gap-5 group">
+        <a href="/" class="flex items-center gap-3 sm:gap-5 group">
             <div
-                class="relative w-8 h-8 overflow-hidden rounded border border-white/10 bg-white/5 backdrop-blur-sm group-hover:border-sky-500/50 transition-all duration-500 shadow-lg">
+                class="relative w-7 h-7 sm:w-8 sm:h-8 shrink-0 overflow-hidden rounded border border-white/10 bg-white/5 backdrop-blur-sm group-hover:border-sky-500/50 transition-all duration-500 shadow-lg">
                 <img src="{{ asset('images/logo.png') }}" alt="Logo"
                     class="w-full h-full object-contain p-1">
             </div>
             <div
-                class="text-lg font-black text-white tracking-widest uppercase">
+                class="text-sm sm:text-base md:text-lg font-black text-white tracking-wider sm:tracking-widest uppercase leading-tight">
                 Distance Between <span class="text-sky-400">Dates</span>
             </div>
         </a>
