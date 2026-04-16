@@ -48,7 +48,7 @@
             </div>
             <div
                 class="text-sm sm:text-base md:text-lg font-black text-white tracking-wider sm:tracking-widest uppercase leading-tight">
-                DB<span class="text-sky-400">D</span>
+                DBD
             </div>
         </a>
 
