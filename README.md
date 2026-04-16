@@ -145,4 +145,4 @@ Open source under the MIT License.
 
 ---
 **Built with ❤️ using Laravel 11, TypeScript, and Tailwind CSS**
-*Engineered by Dotnix*
+*Engineered by Abdur Rahman Emon*
